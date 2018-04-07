@@ -1,4 +1,4 @@
-function value = milkandOtherDairyProductsExport (month,year)
+function value = milkAndOtherDairyProductsExport (month,year)
 format long g
 
 x = month;
