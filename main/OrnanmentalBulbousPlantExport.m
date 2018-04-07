@@ -1,4 +1,4 @@
-function value = OrnanmentalBulbousPlantExport(month,year)
+function value = ornanmentalBulbousPlantExport(month,year)
 format long g
 
 x = month;
